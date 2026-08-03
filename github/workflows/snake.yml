@@ -1,0 +1,38 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # 03:00 Sáng Việt Nam (tức 20:00 UTC hôm trước)
+    # Chạy sau khi daily-commit lúc 2h sáng đã làm xong việc
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Bùa chú múi giờ Việt Nam đây rồi!
+    env:
+      TZ: Asia/Ho_Chi_Minh
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
