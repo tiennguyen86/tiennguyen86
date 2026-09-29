@@ -1,70 +1,80 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b12,100:1a1033&height=140&section=header&text=Tiến%20Nguyễn&fontSize=48&fontColor=ffffff&fontAlign=8&fontAlignY=45&desc=Backend%20Engineer%20·%20.NET%20%26%20Java&descAlign=8&descAlignY=68&descSize=16" width="100%" alt="header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=Tiến%20Nguyễn&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20.NET%20%7C%20Java&descAlignY=58&descSize=18" alt="Tiến Nguyễn banner" />
 
-<a href="https://github.com/tiennguyen86">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=A78BFA&width=520&height=30&lines=Xây+API+gọn+gàng%2C+dễ+bảo+trì;ASP.NET+Core+·+Java+·+SQL+Server;Đang+học+Docker+%26+Microservices" alt="typing" />
-</a>
+  <a href="https://github.com/tiennguyen86">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=32&lines=Building+clean+and+reliable+APIs;Turning+complex+problems+into+simple+systems;ASP.NET+Core+%C2%B7+Java+%C2%B7+SQL+Server+%C2%B7+Docker" alt="Typing introduction" />
+  </a>
 
-<br>
+  <br />
 
-<table>
-<tr>
-<td width="60%" valign="top">
+  <a href="https://github.com/tiennguyen86?tab=followers">
+    <img src="https://img.shields.io/github/followers/tiennguyen86?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0f172a" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/tiennguyen86?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20repositories-312e81?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-22c55e?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
+</div>
 
-### 👋 Về mình
-Backend engineer ở Việt Nam 🇻🇳. Mình thích thiết kế API rõ ràng, tối ưu truy vấn SQL và viết code người khác đọc là hiểu.
+<br />
 
-<img src="https://img.shields.io/badge/Open_to_work-22c55e?style=flat-square" alt="status" />
-<img src="https://img.shields.io/github/followers/tiennguyen86?style=flat-square&color=7c3aed&label=followers" alt="followers" />
+## 👋 Xin chào, mình là Tiến
 
-</td>
-<td width="40%" valign="top">
+Mình là **Backend Engineer ở Việt Nam 🇻🇳**, tập trung xây dựng các hệ thống backend rõ ràng, ổn định và dễ mở rộng.
 
-### 🎯 Đang tập trung
-- Clean Architecture
-- Docker & CI/CD
-- Microservices cơ bản
+- 🧩 Thiết kế API dễ dùng, dễ bảo trì
+- ⚡ Tối ưu truy vấn và hiệu năng hệ thống
+- 🧼 Ưu tiên code rõ ràng, thực dụng và có cấu trúc
+- 🤝 Luôn sẵn sàng học hỏi và chia sẻ về backend
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+## 🎯 Hiện tại mình đang tập trung vào
 
-### 🧰 Stack
+```text
+Clean Architecture  ·  RESTful API  ·  SQL Performance
+Docker & CI/CD      ·  Microservices  ·  Cloud Basics
+```
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+## 🛠️ Tech stack
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,sqlserver,docker,azure,git,github,postman&perline=10" alt="Tech stack" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=tiennguyen86&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=7c3aed&text_color=c9d1d9&border_radius=12">
-  <img height="150" alt="stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiennguyen86&show_icons=true&hide_border=true&bg_color=00000000&title_color=512BD4&icon_color=512BD4&text_color=57606a&border_radius=12">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiennguyen86&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9d1d9&border_radius=12">
-  <img height="150" alt="languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiennguyen86&layout=compact&hide_border=true&bg_color=00000000&title_color=512BD4&text_color=57606a&border_radius=12">
-</picture>
+## 📊 GitHub activity
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiennguyen86&show_icons=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=a78bfa&text_color=64748b&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiennguyen86&layout=compact&hide_border=true&bg_color=00000000&title_color=7c3aed&text_color=64748b&langs_count=8" alt="Top languages" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiennguyen86/tiennguyen86/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/tiennguyen86/tiennguyen86/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiennguyen86&hide_border=true&background=00000000&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&sideLabels=64748b&dates=94a3b8&currStreakNum=334155&sideNums=334155" alt="GitHub streak" />
+</div>
 
-> [!TIP]
-> Cần một API chạy ổn định hoặc muốn trao đổi về .NET / Java? Cứ nhắn mình.
+## 🐍 Contribution graph
 
-<a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-1a1033?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="email" /></a>
-<a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-1a1033?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="linkedin" /></a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiennguyen86/tiennguyen86/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiennguyen86/tiennguyen86/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/tiennguyen86/tiennguyen86/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</div>
+
+## 📫 Kết nối với mình
+
+<div align="center">
+  <a href="https://github.com/tiennguyen86">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Thay your-id bằng username LinkedIn thật của bạn -->
+  <a href="https://linkedin.com/in/your-id">
+    <img src="https://img.shields.io/badge/LinkedIn-312e81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Good software is built to be understood."</i>
+</div>
